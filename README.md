@@ -1,19 +1,7 @@
 # router-bug
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Instructions
+ - `npm install`
+ - `npm run serve`
+ - Click "Other"
+ - Observe errors in the console e.g. `[Vue warn]: $attrs is readonly.`
